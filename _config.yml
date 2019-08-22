@@ -9,13 +9,13 @@ author:
 street_address: 675 commonwealth avenue
 city: Boston
 state: MA
-zip_code: 55555
+zip_code: 02215
 country: United States of America
-phone: (515) 4514178
+phone: (515) 451-4178
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 16
+tiles-count: 6
 
 # social settings
 500px_url:
