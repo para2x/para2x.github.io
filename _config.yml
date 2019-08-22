@@ -14,8 +14,8 @@ country: United States of America
 phone: (515) 451-4178
 
 # homepage tiles
-tiles-source: "pages" # accepts "posts" or "pages"
-tiles-count: 2
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 500px_url:
