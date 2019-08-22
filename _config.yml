@@ -1,15 +1,15 @@
 # site settings
 title: Hamze Dokoohaki
-subtitle: Postdoctoral Associate
+subtitle: 
 email: hamzed@bu.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Postdoctoral Associate @ Ecological Forecasting Lab
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 675 commonwealth avenue
 city: Boston
 state: MA
-zip_code: 02215
+zip_code: `02215`
 country: United States of America
 phone: (515) 451-4178
 
