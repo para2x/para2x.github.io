@@ -1,5 +1,5 @@
 ---
-title: Active projects
+title: Apps
 layout: landing
 description: ''
 image: assets/images/pic07.jpg
