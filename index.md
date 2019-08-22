@@ -5,7 +5,7 @@ landing-title: 'Welcome to my personal webpage'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
 I'm passionate about
