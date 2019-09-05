@@ -13,22 +13,23 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-<h3>Biochar could boost US crops</h3>
+
+<!-- Box -->
+<h3>Box</h3>
 <div class="box">
-<p><span class="image left"><img src="https://physicsworld.com/wp-content/uploads/2019/07/wheat-square-20440028-iStock_LukaTDB.jpg" alt="" /></span>
-	
+<p><span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 </div>
 
-<h3>Biochar: miracle or madness?</h3>
+<h3>Box</h3>
 <div class="box">
-<p><span class="image left"><img src="http://geographical.co.uk/images/articles/development/2019/shutterstock_1088150546.jpg" alt="" /></span>
-	
+<p><span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 </div>
+
 
 </div>
 </div>
+
 </div>
 </section>
 
 </div>
-
