@@ -5,11 +5,6 @@ description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
----
-layout: page
-title: Elements
-nav-menu: true
----
 
 <!-- Main -->
 <div id="main" class="alt">
